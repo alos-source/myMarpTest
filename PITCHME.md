@@ -50,4 +50,4 @@ https://github.com/yhatt/marp-cli-example
 
 ![bg 40% opacity blur](https://avatars.githubusercontent.com/u/60797650?v=4)
 
-### Created by Alos-Source ([@yhatt](https://github.com/alos-source))
+### Created by alos-Source ([@alos-source](https://github.com/alos-source))
