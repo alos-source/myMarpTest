@@ -13,7 +13,7 @@ _paginate: false
 
 Hosting Marp slide deck on the web
 
-https://github.com/yhatt/marp-cli-example
+https://github.com/alos-source/myMarpTest
 
 <style scoped>a { color: #eee; }</style>
 
@@ -28,7 +28,7 @@ https://github.com/yhatt/marp-cli-example
 <!-- _backgroundColor: "#123" -->
 <!-- _color: "#fff" -->
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
+##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages)
 
 ##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
 
